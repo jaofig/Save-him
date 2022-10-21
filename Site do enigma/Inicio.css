@@ -1,0 +1,38 @@
+
+body {
+    text-align: center;
+    background-color: #1f1f1f; 
+}
+
+h1 {
+    color: #a9a9a9;
+    font-size: 100px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+button {
+    background-color: white;
+    font-size: 40px;
+}
+
+button:hover{
+    background-color: #a9a9a9;
+    cursor: pointer;
+}
+
+input {
+    font-size: 30px;
+    margin-bottom: 40px;
+    outline: none;
+    text-align: center;
+}
+
+div {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-right: 25px;
+    color: #a9a9a9;
+    font-size: 30px;
+}
